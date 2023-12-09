@@ -1,9 +1,9 @@
 idne
 liev
 saey
-plot
+lpto
 cdia
-glue
+gelu
 kesd
 smes
 ekca
@@ -35,6 +35,6 @@ bera
 dere
 fbee
 pear
-blue
+lbeu
 camo
 ootl
